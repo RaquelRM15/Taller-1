@@ -1,0 +1,9 @@
+nav {
+    background-image: linear-gradient(#efff73 30%, #ffb23f 70%);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    padding: 10px
+}
